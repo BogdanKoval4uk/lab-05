@@ -1,6 +1,6 @@
 # lab-05
 
-[![Coverage Status](https://coveralls.io/repos/github/Vlad1kavkaz/lab-05-1/badge.svg?branch=master)](https://coveralls.io/github/Vlad1kavkaz/lab-05?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/lediboniebell/lab-05-1/badge.svg?branch=master)](https://coveralls.io/github/Vlad1kavkaz/lab-05?branch=master)
 
 # Report-05
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере GTest
